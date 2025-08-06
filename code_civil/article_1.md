@@ -1,6 +1,6 @@
 # CODE CIVIL DE LA RÉPUBLIQUE DE BORNFAT
 **Loi fondamentale n°1**  
-*Version 1.0.0 - Build 20250806-ATLANTIS*  
+*Version 1.0.0 - Build 20250806-A*  
 *Promulgué par décret de la table carré le 6 août 2025*
 
 ---
